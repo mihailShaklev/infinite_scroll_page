@@ -2,4 +2,5 @@
 infinite scroll page\
 \
 See how it works:\
+\
 ![infinite-scroll](infscroll.gif)
